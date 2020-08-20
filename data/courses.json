@@ -1,0 +1,34 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "Maths",
+      "description": "Maths course",
+      "enrolledStudents": [
+        {
+          "id": 1,
+          "name": "Archit"
+        },
+        {
+          "id": 2,
+          "name": "Rishika"
+        }
+      ],
+      "availableSlots": 4
+    },
+    {
+      "id": 2,
+      "name": "Science",
+      "description": "Science course",
+      "enrolledStudents": [],
+      "availableSlots": 2
+    },
+    {
+      "id": 3,
+      "name": "English",
+      "description": "English",
+      "enrolledStudents": [],
+      "availableSlots": "English"
+    }
+  ]
+}
